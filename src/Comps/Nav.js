@@ -3,8 +3,8 @@
 const Nav = ({ handleRightFlip, handleLeftFlip }) => {
     return (
         <div>
-          <button onClick={handleRightFlip} style={{ marginRight: ".1em", color: "red"}}>FLip R</button>
-          <button onClick={handleLeftFlip}>Flip L</button>
+          <button onClick={handleLeftFlip} style={{ color: "green" }}>Flip L</button>
+          <button onClick={handleRightFlip} style={{ marginRight: ".1em", color: "red" }}>FLip R</button>
         </div>
        
     );
