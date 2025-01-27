@@ -14,18 +14,16 @@
 }
 
 .left {
-    color: White;
-    background-color: rgb(104, 205, 104);
+    color: rgb(67, 63, 63);
     font-size: .9em;
-    border: 2px solid black;
+    border: 1.2px solid black;
     border-radius: .4em
 }
 
 .right {
-    color: white;
-    background-color: rgb(232, 73, 81);
+    color: rgb(67, 63, 63);
     font-size: .9em;
-    border: 2px solid black;
+    border: 1.2px solid black;
     border-radius: .4em;
     margin-left: .1em
 }
