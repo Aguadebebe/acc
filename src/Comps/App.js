@@ -3,7 +3,7 @@ import Carousel from "./Carousel";
  
 
 const App = () => {
-console.log(window.innerHeight);
+
 const slideData = [
   { id: 0, title: " Mt. Fugi", image: "https://images.pexels.com/photos/3408353/pexels-photo-3408353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"},
   { id: 1, title: "Girl in Norway", image: "https://images.pexels.com/photos/789382/pexels-photo-789382.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"},
