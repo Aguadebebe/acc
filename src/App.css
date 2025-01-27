@@ -14,10 +14,18 @@
 }
 
 .left {
-    color: rgb(104, 205, 104)
+    color: White;
+    background-color: rgb(104, 205, 104);
+    font-size: .9em;
+    border: 2px solid black;
+    border-radius: .4em
 }
 
 .right {
-    color: rgb(232, 73, 81);
-    margin-left: .1em;
+    color: white;
+    background-color: rgb(232, 73, 81);
+    font-size: .9em;
+    border: 2px solid black;
+    border-radius: .4em;
+    margin-left: .1em
 }

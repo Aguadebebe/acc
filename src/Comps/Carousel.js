@@ -27,8 +27,7 @@ import { useState } from "react";
           <h1>Carousel</h1>
           
             <Slide key={slideData[currentIndex].id} slideData={slideData[currentIndex]} />
-            <Nav 
-              flipSlide={flipSlide} 
+            <Nav  
               handleRightFlip={handleRightFlip}
               handleLeftFlip={ handleLeftFlip}
             />
