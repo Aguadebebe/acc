@@ -1,0 +1,23 @@
+
+
+.slide {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    position: relative; 
+}
+
+.img-container {
+    max-width: 100vw; 
+    object-fit: contain;
+}
+
+.left {
+    color: rgb(104, 205, 104)
+}
+
+.right {
+    color: rgb(232, 73, 81);
+    margin-left: .1em;
+}
